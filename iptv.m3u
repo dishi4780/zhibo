@@ -189,69 +189,69 @@ http://111.227.234.240:8787/rtp/239.254.200.90:8188
 http://111.227.234.240:8787/rtp/239.254.200.91:9248
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",金鹰卡通
 http://111.227.234.240:8787/rtp/239.254.200.92:9252
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",嘉佳卡通
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",嘉佳卡通
 http://111.227.234.240:8787/rtp/239.254.201.201:7269
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",优漫卡通
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",优漫卡通
 http://111.227.234.240:8787/rtp/239.254.201.203:7178
 #EXTINF:-1 group-title="河北",山东教育
 http://111.227.234.240:8787/rtp/239.254.200.247:4120
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",CETV-1高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",CETV-1高清
 http://111.227.234.240:8787/rtp/239.254.200.225:6259
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实高清
 http://111.227.234.240:8787/rtp/239.254.200.189:6293
 #EXTINF:-1 group-title="河北",电视指南
 http://111.227.234.240:8787/rtp/239.254.200.142:6256
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场
 http://111.227.234.240:8787/rtp/239.254.200.93:6227
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场
 http://111.227.234.240:8787/rtp/239.254.200.94:6228
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
 http://111.227.234.240:8787/rtp/239.254.200.95:6229
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
 http://111.227.234.240:8787/rtp/239.254.200.96:6230
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",风云足球
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",风云足球
 http://111.227.234.240:8787/rtp/239.254.200.97:6231
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
 http://111.227.234.240:8787/rtp/239.254.200.98:6232
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg",天元围棋
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg",天元围棋
 http://111.227.234.240:8787/rtp/239.254.201.156:6270
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg",武术世界
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg",武术世界
 http://111.227.234.240:8787/rtp/239.254.200.100:6234
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
 http://111.227.234.240:8787/rtp/239.254.200.101:6235
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
 http://111.227.234.240:8787/rtp/239.254.200.102:6236
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
 http://111.227.234.240:8787/rtp/239.254.200.104:6237
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg",环球奇观
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg",环球奇观
 http://111.227.234.240:8787/rtp/239.254.200.105:6238
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg",文物宝库
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg",文物宝库
 http://111.227.234.240:8787/rtp/239.254.200.106:6239
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg",国学
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg",国学
 http://111.227.234.240:8787/rtp/239.254.200.107:6255
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg",茶频道
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg",茶频道
 http://111.227.234.240:8787/rtp/239.254.200.228:6258
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚
 http://111.227.234.240:8787/rtp/239.254.200.110:6241
 #EXTINF:-1 group-title="河北",文化精品
 http://111.227.234.240:8787/rtp/239.254.200.111:6251
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",早期教育
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",早期教育
 http://111.227.234.240:8787/rtp/239.254.200.114:6244
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg",快乐垂钓
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg",快乐垂钓
 http://111.227.234.240:8787/rtp/239.254.200.229:6257
 #EXTINF:-1 group-title="河北",书画
 http://111.227.234.240:8787/rtp/239.254.200.217:6267
 #EXTINF:-1 group-title="河北",摄影
 http://111.227.234.240:8787/rtp/239.254.200.119:6246
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg",梨园
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg",梨园
 http://111.227.234.240:8787/rtp/239.254.200.120:6247
 #EXTINF:-1 group-title="河北",靓妆
 http://111.227.234.240:8787/rtp/239.254.200.122:6249
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg",汽摩
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg",汽摩
 http://111.227.234.240:8787/rtp/239.254.200.103:6252
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",CETV-2
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",CETV-2
 http://111.227.234.240:8787/rtp/239.254.200.226:6260
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png",CETV-4
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png",CETV-4
 http://111.227.234.240:8787/rtp/239.254.200.227:6261
 #EXTINF:-1 group-title="河北",游戏竞技
 http://111.227.234.240:8787/rtp/239.254.201.157:6269
@@ -259,9 +259,9 @@ http://111.227.234.240:8787/rtp/239.254.201.157:6269
 http://111.227.234.240:8787/rtp/239.254.200.113:6243
 #EXTINF:-1 group-title="河北",网络棋牌
 http://111.227.234.240:8787/rtp/239.254.201.159:7169
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
 http://111.227.234.240:8787/rtp/239.254.201.160:7172
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg",环球旅游
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg",环球旅游
 http://111.227.234.240:8787/rtp/239.254.201.161:6264
 #EXTINF:-1 group-title="河北",车迷
 http://111.227.234.240:8787/rtp/239.254.201.162:6266
@@ -275,7 +275,7 @@ http://111.227.234.240:8787/rtp/239.254.201.168:6362
 http://111.227.234.240:8787/rtp/239.254.201.169:6341
 #EXTINF:-1 group-title="河北",体育赛事
 http://111.227.234.240:8787/rtp/239.254.201.170:8176
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png",央视台球
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png",央视台球
 http://111.227.234.240:8787/rtp/239.254.201.171:7176
 #EXTINF:-1 group-title="河北",冰雪体育
 http://111.227.234.240:8787/rtp/239.254.201.172:7244
@@ -285,7 +285,7 @@ http://111.227.234.240:8787/rtp/239.254.201.173:7246
 http://111.227.234.240:8787/rtp/239.254.201.174:7245
 #EXTINF:-1 group-title="河北",音像世界(DOXTV)
 http://111.227.234.240:8787/rtp/239.254.201.175:7243
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png",求索纪录
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png",求索纪录
 http://111.227.234.240:8787/rtp/239.254.201.176:7221
 #EXTINF:-1 group-title="河北",陶瓷
 http://111.227.234.240:8787/rtp/239.254.201.21:7175
@@ -297,7 +297,7 @@ http://111.227.234.240:8787/rtp/239.254.201.182:7227
 http://111.227.234.240:8787/rtp/239.254.201.183:7226
 #EXTINF:-1 group-title="河北",中华特产
 http://111.227.234.240:8787/rtp/239.254.201.184:6263
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg",四海钓鱼
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg",四海钓鱼
 http://111.227.234.240:8787/rtp/239.254.201.185:6363
 #EXTINF:-1 group-title="河北",优优宝贝
 http://111.227.234.240:8787/rtp/239.254.201.186:6272
@@ -305,39 +305,39 @@ http://111.227.234.240:8787/rtp/239.254.201.186:6272
 http://111.227.234.240:8787/rtp/239.254.201.187:6226
 #EXTINF:-1 group-title="河北",家庭理财
 http://111.227.234.240:8787/rtp/239.254.201.188:6366
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png",财富天下
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png",财富天下
 http://111.227.234.240:8787/rtp/239.254.200.124:6370
 #EXTINF:-1 group-title="河北",中华美食
 http://111.227.234.240:8787/rtp/239.254.201.189:7171
 #EXTINF:-1 group-title="河北",电视指南高清
 http://111.227.234.240:8787/rtp/239.254.201.217:7250
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场高清
 http://111.227.234.240:8787/rtp/239.254.201.218:7258
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场高清
 http://111.227.234.240:8787/rtp/239.254.201.219:7257
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场高清
 http://111.227.234.240:8787/rtp/239.254.201.220:7256
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐高清
 http://111.227.234.240:8787/rtp/239.254.201.221:7259
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",风云足球高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",风云足球高清
 http://111.227.234.240:8787/rtp/239.254.201.222:7251
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球高清
 http://111.227.234.240:8787/rtp/239.254.201.223:7252
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg",武术世界高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg",武术世界高清
 http://111.227.234.240:8787/rtp/239.254.201.224:7229
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技高清
 http://111.227.234.240:8787/rtp/239.254.201.225:7249
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理高清
 http://111.227.234.240:8787/rtp/239.254.201.226:7254
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg",文物宝库高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg",文物宝库高清
 http://111.227.234.240:8787/rtp/239.254.201.227:7230
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚高清
 http://111.227.234.240:8787/rtp/239.254.201.228:7255
 #EXTINF:-1 group-title="河北",文化精品高清
 http://111.227.234.240:8787/rtp/239.254.201.229:7260
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",早期教育高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",早期教育高清
 http://111.227.234.240:8787/rtp/239.254.201.230:7253
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg",梨园高清
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg",梨园高清
 http://111.227.234.240:8787/rtp/239.254.201.231:7228
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4中文国际欧洲
 http://111.227.234.240:8787/rtp/239.254.201.205:4220
@@ -429,7 +429,7 @@ http://111.227.234.240:8787/rtp/239.254.201.71:5310
 http://111.227.234.240:8787/rtp/239.254.201.101:5312
 #EXTINF:-1 group-title="河北",文安电视
 http://111.227.234.240:8787/rtp/239.254.201.103:5314
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png",三河电视
+#EXTINF:-1 group-title="河北" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png",三河电视
 http://111.227.234.240:8787/rtp/239.254.201.113:5315
 #EXTINF:-1 group-title="河北",永清电视
 http://111.227.234.240:8787/rtp/239.254.201.141:5316

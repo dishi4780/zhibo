@@ -3,10 +3,9 @@
 
 
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·4K",CCTV1-4K 
-http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·4K",CCTV1-4K 
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="IPV6·4K",CCTV3-4K 
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5" group-title="IPV6·4K",CCTV5-4K 
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" group-title="IPV6·4K",CCTV16 4K 

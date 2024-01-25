@@ -345,15 +345,22 @@ http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45
 http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
-http://60.4.3.57:8888/udp/239.253.92.52:6021
+http://106.118.75.97:4022/udp/239.254.200.39:6000
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
 http://121.29.111.200:8888/udp/239.253.92.52:6021
-#EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
-http://60.4.3.57:8888/udp/239.253.92.53:6022
+#EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
+http://60.4.3.57:8888/udp/239.253.92.52:6021
 #EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
 http://106.118.75.97:4022/udp/239.254.200.40:6000
-#EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
-http://60.4.3.57:8888/udp/239.253.92.54:6023
+#EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
+http://121.29.111.200:8888/udp/239.253.92.53:6022
+#EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
+http://60.4.3.57:8888/udp/239.253.92.53:6022
 #EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
 http://106.118.75.97:4022/udp/239.254.200.41:6000
+#EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
+http://121.29.111.200:8888/udp/239.253.92.54:6023
+#EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
+http://60.4.3.57:8888/udp/239.253.92.54:6023
+
 

@@ -1,7 +1,5 @@
 #EXTINF:-1 group-title="IPV6·4K",爱上4K 
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6·4K",BesTV 4K 
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·4K",SiTV欢笑剧场4K 

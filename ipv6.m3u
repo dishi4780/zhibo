@@ -424,6 +424,7 @@ http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 
 #EXTINF:-1 tvg-name="CCTV 4K" group-title="IPV6·4K",CCTV 4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://120.6.2.34:4000/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-name="CCTV16" group-title="IPV6·4K",CCTV16
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 http://116.233.232.229:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -675,7 +676,12 @@ http://myxq.leeleelee.press:4022/udp/239.254.200.40:6000
 #EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
 http://120.6.2.34:4000/rtp/239.253.92.54:6023
 http://myxq.leeleelee.press:4022/udp/239.254.200.41:6000
-
+#EXTINF:-1 tvg-name="卢龙电视" group-title="秦皇岛",卢龙电视
+http://120.6.2.34:4000/rtp/239.253.93.206:6384
+#EXTINF:-1 tvg-name="抚宁电视" group-title="秦皇岛",抚宁电视
+http://120.6.2.34:4000/rtp/239.253.93.201:6379
+#EXTINF:-1 tvg-name="昌黎电视" group-title="秦皇岛",昌黎电视
+http://120.6.2.34:4000/rtp/239.253.92.109:6217
 
 
 

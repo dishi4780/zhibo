@@ -718,13 +718,16 @@ http://121.26.216.13:16000/rtp/239.253.92.174:6004
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
 http://121.19.134.69:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.6.187.182:4022/rtp/239.253.92.52:6021
 http://120.6.2.34:4000/rtp/239.253.92.52:6021
 http://myxq.leeleelee.press:4022/udp/239.254.200.39:6000
 #EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
 http://120.6.2.34:4000/rtp/239.253.92.53:6022
+http://120.6.187.182:4022/rtp/239.253.92.53:6022
 http://myxq.leeleelee.press:4022/udp/239.254.200.40:6000
 #EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
 http://120.6.2.34:4000/rtp/239.253.92.54:6023
+http://120.6.187.182:4022/rtp/239.253.92.54:6023
 http://myxq.leeleelee.press:4022/udp/239.254.200.41:6000
 #EXTINF:-1 tvg-name="卢龙电视" group-title="秦皇岛",卢龙电视
 http://120.6.2.34:4000/rtp/239.253.93.206:6384

@@ -170,10 +170,10 @@ http://116.148.121.229:8125/rtp/233.50.200.191:5140
 http://110.191.203.67:8888/udp/239.93.0.162:2192
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://113.64.145.228:8081/hls/36/index.m3u8
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 http://110.191.203.67:8888/udp/239.93.1.4:2191
 http://110.191.203.67:8888/udp/239.93.0.118:2191
-http://113.64.145.228:8081/hls/36/index.m3u8
 http://113.64.145.173:8081/hls/36/index.m3u8
 http://116.148.121.229:8125/rtp/233.50.200.192:5140
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8

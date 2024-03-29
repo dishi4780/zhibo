@@ -1,43 +1,23 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
-http://121.19.134.69:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.225.113.218:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.192.71.240:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.228.122.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://222.185.245.194:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
-http://121.19.134.69:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.225.113.218:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.192.71.240:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.228.122.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://222.185.245.194:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://113.57.150.190:9000/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.210.23.42:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-http://121.19.134.69:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.192.71.240:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.228.122.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://123.160.235.166:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://222.185.245.194:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://175.0.50.196:8899/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.210.23.42:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.225.113.218:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-http://121.19.134.69:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.225.113.218:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.192.71.240:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.228.122.236:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://222.71.189.186:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.210.23.42:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://222.185.245.194:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://175.0.50.196:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.71.189.186:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 http://1.192.71.240:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0

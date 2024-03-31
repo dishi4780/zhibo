@@ -76,12 +76,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://171.217.88.197:4000/udp/239.93.0.162:2192
 http://113.64.145.61:8081/hls/37/index.m3u8
+http://171.217.88.197:4000/udp/239.93.0.162:2192
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://171.217.88.197:4000/udp/239.93.0.118:2191
 http://113.64.145.61:8081/hls/36/index.m3u8
+http://171.217.88.197:4000/udp/239.93.0.118:2191
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
@@ -412,42 +412,26 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
 #EXTINF:-1 tvg-name="河北卫视" group-title="河北",河北卫视
-http://121.19.134.69:808/tsfile/live/0019_1.m3u8
 http://116.132.87.246:8888/newlive/live/hls/19/live.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.171:6001
 http://120.6.187.182:4022/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-name="河北都市" group-title="河北",河北都市
-http://121.19.134.69:808/tsfile/live/1001_1.m3u8
 http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.172:6002
 http://120.6.187.182:4022/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-name="河北公共" group-title="河北",河北公共
-http://121.19.134.69:808/tsfile/live/1004_1.m3u8
 http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.175:6005
 http://120.6.187.182:4022/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-name="河北影视剧" group-title="河北",河北影视剧
-http://121.19.134.69:808/tsfile/live/1002_1.m3u8
 http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.173:6003
 http://120.6.187.182:4022/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-name="河北经济" group-title="河北",河北经济
-http://121.19.134.69:808/tsfile/live/1000_1.m3u8
 http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.171:6001
 http://120.6.187.182:4022/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-name="河北农民" group-title="河北",河北农民
-http://121.19.134.69:808/tsfile/live/1005_1.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.176:6006
 http://120.6.187.182:4022/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-name="河北少儿科教" group-title="河北",河北少儿科教
-http://121.19.134.69:808/tsfile/live/1003_1.m3u8
-http://121.26.216.13:16000/rtp/239.253.92.174:6004
 http://120.6.187.182:4022/rtp/239.253.92.174:6004
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
-http://121.19.134.69:808/tsfile/live/1044_1.m3u8
-http://120.6.187.182:4022/rtp/239.253.92.52:6021
 http://myxq.leeleelee.press:4022/udp/239.254.200.39:6000
 #EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
 http://120.6.187.182:4022/rtp/239.253.92.53:6022

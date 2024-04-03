@@ -81,10 +81,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 http://113.64.145.61:8081/hls/37/index.m3u8
 http://171.217.88.197:4000/udp/239.93.0.162:2192
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
 http://113.64.145.61:8081/hls/36/index.m3u8
 http://171.217.88.197:4000/udp/239.93.0.118:2191
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8

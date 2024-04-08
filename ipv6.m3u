@@ -35,8 +35,10 @@ https://itv.lat/tv/live.php?&line=1&id=cctv11
 http://101.228.122.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视ʰ",CCTV-13 新闻
+http://116.131.173.194:809/hls/13/index.m3u8
 https://itv.lat/tv/live.php?&line=1&id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视ʰ",CCTV-14 少儿
+http://116.131.173.194:809/hls/14/index.m3u8
 https://itv.lat/tv/live.php?&line=1&id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视ʰ",CCTV-15 音乐
 https://itv.lat/tv/live.php?&line=1&id=cctv15

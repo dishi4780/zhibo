@@ -255,10 +255,13 @@ http://pwd.unnas.top:4000/rtp/239.253.92.174:6004
 http://121.24.98.185:8090/hls/30/index.m3u8
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合
+http://pwd.unnas.top:4000/rtp/239.253.92.52:6021
 http://myxq.leeleelee.press:4022/udp/239.254.200.39:6000
 #EXTINF:-1 tvg-name="秦皇岛公共" group-title="秦皇岛",秦皇岛公共
+http://pwd.unnas.top:4000/rtp/239.253.92.53:6022
 http://myxq.leeleelee.press:4022/udp/239.254.200.40:6000
 #EXTINF:-1 tvg-name="秦皇岛影视" group-title="秦皇岛",秦皇岛影视
+http://pwd.unnas.top:4000/rtp/239.253.92.54:6023
 http://myxq.leeleelee.press:4022/udp/239.254.200.41:6000
 
 

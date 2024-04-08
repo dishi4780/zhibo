@@ -248,8 +248,10 @@ http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-name="河北公共" group-title="河北",河北公共
 http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-name="河北农民" group-title="河北",河北农民
+http://pwd.unnas.top:4000/rtp/239.253.92.176:6006
 http://121.24.98.185:8090/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北",河北少儿科教
+#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北",河北少儿科教3
+http://pwd.unnas.top:4000/rtp/239.253.92.174:600
 http://121.24.98.185:8090/hls/30/index.m3u8
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合

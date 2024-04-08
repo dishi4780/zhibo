@@ -64,6 +64,7 @@ http://121.24.99.64:8090/hls/24/index.m3u8
 http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv17
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视ʰ",CCTV-5+ 体育赛事
+http://121.24.99.64:8090/hls/5/index.m3u8
 https://itv.lat/tv/live.php?&line=1&id=cctv5p
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视ʰ",CGTN
 https://itv.lat/tv/live.php?&line=1&id=cgtn

@@ -30,19 +30,15 @@ https://itv.lat/tv/live.php?&line=1&id=cctv9
 http://101.228.122.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视ʰ",CCTV-11 戏曲
-http://101.228.122.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视ʰ",CCTV-12 社会与法
 http://101.228.122.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视ʰ",CCTV-13 新闻
-http://101.228.122.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视ʰ",CCTV-14 少儿
-http://101.228.122.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视ʰ",CCTV-15 音乐
-http://101.228.122.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 https://itv.lat/tv/live.php?&line=1&id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视ʰ",CCTV-16 奥林匹克
 https://itv.lat/tv/live.php?&line=1&id=cctv16

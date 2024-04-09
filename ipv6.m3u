@@ -197,8 +197,6 @@ https://itv.lat/tv/live.php?&line=1&id=dmxc
 https://itv.lat/tv/live.php?&line=1&id=hhxd
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字ʰ",欢笑剧场
 https://itv.lat/tv/live.php?&line=1&id=hxjc
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字ʰ",欢笑剧场 4K
-https://itv.lat/tv/live.php?&line=1&id=hxjc4k
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字ʰ",都市剧场
 https://itv.lat/tv/live.php?&line=1&id=dsjc
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字ʰ",五星体育
@@ -281,6 +279,8 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 https://itv.lat/tv/live.php?&line=1&id=cctv164k
 #EXTINF:-1 group-title="4K频道",,苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" group-title="4K频道",欢笑剧场4K
+https://itv.lat/tv/live.php?&line=1&id=hxjc4k
 #EXTINF:-1 tvg-name="Loupe" group-title="4K频道",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K频道",Love Nrture 4K「自然」

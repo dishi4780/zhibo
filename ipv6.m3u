@@ -101,100 +101,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字ʰ",北京纪实科教
-https://itv.lat/tv/live.php?&line=1&id=bjjskj
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字ʰ",纪实人文
-https://itv.lat/tv/live.php?&line=1&id=shjsrw
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字ʰ",动漫秀场
-https://itv.lat/tv/live.php?&line=1&id=dmxc
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字ʰ",哈哈炫动
-https://itv.lat/tv/live.php?&line=1&id=hhxd
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字ʰ",欢笑剧场
-https://itv.lat/tv/live.php?&line=1&id=hxjc
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字ʰ",都市剧场
-https://itv.lat/tv/live.php?&line=1&id=dsjc
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字ʰ",五星体育
-https://itv.lat/tv/live.php?&line=1&id=wxty
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字ʰ",劲爆体育
-https://itv.lat/tv/live.php?&line=1&id=jbty
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字ʰ",新视觉
-https://itv.lat/tv/live.php?&line=1&id=xsj
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字ʰ",游戏风云
-https://itv.lat/tv/live.php?&line=1&id=yxfy
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字ʰ",生活时尚
-https://itv.lat/tv/live.php?&line=1&id=shss
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字ʰ",金色学堂
-https://itv.lat/tv/live.php?&line=1&id=jspd
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字ʰ",乐游
-https://itv.lat/tv/live.php?&line=1&id=qjs
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字ʰ",魅力足球
-https://itv.lat/tv/live.php?&line=1&id=mlzq
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字ʰ",茶频道
-https://itv.lat/tv/live.php?&line=1&id=cpd
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字ʰ",快乐垂钓
-https://itv.lat/tv/live.php?&line=1&id=klcd
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字ʰ",金鹰纪实
-https://itv.lat/tv/live.php?&line=1&id=jyjs
-#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="数字ʰ",金鹰卡通
-https://itv.lat/tv/live.php?&line=1&id=jykt
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字ʰ",嘉佳卡通
-https://itv.lat/tv/live.php?&line=1&id=jjkt
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字ʰ",财富天下
-https://itv.lat/tv/live.php?&line=1&id=cftx
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字ʰ",中国天气
-https://itv.lat/tv/live.php?&line=1&id=zgtq
 
-#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",看天下精选
-https://itv.lat/tv/live.php?&line=1&id=ktxjx
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",华语影院
-https://itv.lat/tv/live.php?&line=1&id=hyyy
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",电竞天堂
-https://itv.lat/tv/live.php?&line=1&id=djtt
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",青春动漫
-https://itv.lat/tv/live.php?&line=1&id=qcdm
-#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",星光影院
-https://itv.lat/tv/live.php?&line=1&id=xgyy
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",谍战剧场
-https://itv.lat/tv/live.php?&line=1&id=dzjc
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",全球大片
-https://itv.lat/tv/live.php?&line=1&id=qqdp
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门剧场
-https://itv.lat/tv/live.php?&line=1&id=rmjc
-#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门综艺
-https://itv.lat/tv/live.php?&line=1&id=rmzy
-#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",戏曲精选
-https://itv.lat/tv/live.php?&line=1&id=xqjx
-#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",健康养生
-https://itv.lat/tv/live.php?&line=1&id=jkys
-#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百变课堂
-https://itv.lat/tv/live.php?&line=1&id=bbkt
-#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",宝宝动画
-https://itv.lat/tv/live.php?&line=1&id=bbdh
-#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育1
-https://itv.lat/tv/live.php?&line=1&id=sport1
-#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育2
-https://itv.lat/tv/live.php?&line=1&id=sport2
-#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育3
-https://itv.lat/tv/live.php?&line=1&id=sport3
-#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育4
-https://itv.lat/tv/live.php?&line=1&id=sport4
-#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育5
-https://itv.lat/tv/live.php?&line=1&id=sport5
-#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育6
-https://itv.lat/tv/live.php?&line=1&id=sport6
-#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育7
-https://itv.lat/tv/live.php?&line=1&id=sport7
 
 
 #EXTINF:-1 tvg-name="CCTV 4K" group-title="4K频道",CCTV 4K
-https://itv.lat/tv/live.php?&line=1&id=cctv4k
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="4K频道",CCTV16
-https://itv.lat/tv/live.php?&line=1&id=cctv164k
 #EXTINF:-1 group-title="4K频道",,苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" group-title="4K频道",欢笑剧场4K
-https://itv.lat/tv/live.php?&line=1&id=hxjc4k
 #EXTINF:-1 tvg-name="Loupe" group-title="4K频道",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K频道",Love Nrture 4K「自然」
@@ -206,37 +119,23 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 
 
 #EXTINF:-1 tvg-name="河北卫视" group-title="河北",河北卫视
-http://121.24.99.64:8090/hls/25/index.m3u8
-http://121.19.134.48:808/tsfile/live/0019_1.m3u8
 http://116.131.173.194:809/hls/18/index.m3u8
 http://116.132.87.246:8888/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 tvg-name="河北经济" group-title="河北",河北经济
-http://121.24.99.64:8090/hls/26/index.m3u8
-http://121.19.134.48:808/tsfile/live/1000_1.m3u8
 http://116.131.173.194:809/hls/58/index.m3u8
 http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 tvg-name="河北都市" group-title="河北",河北都市
-http://121.24.99.64:8090/hls/28/index.m3u8
-http://121.19.134.48:808/tsfile/live/1001_1.m3u8
 http://116.131.173.194:809/hls/59/index.m3u8
 http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 tvg-name="河北影视剧" group-title="河北",河北影视剧
-http://121.24.99.64:8090/hls/29/index.m3u8
-http://121.19.134.48:808/tsfile/live/1002_1.m3u8
 http://116.131.173.194:809/hls/60/index.m3u8
 http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-name="河北公共" group-title="河北",河北公共
-http://121.24.99.64:8090/hls/31/index.m3u8
-http://121.19.134.48:808/tsfile/live/1004_1.m3u8
 http://116.131.173.194:809/hls/62/index.m3u8
 http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-name="河北农民" group-title="河北",河北农民
-http://121.24.99.64:8090/hls/27/index.m3u8
-http://121.19.134.48:808/tsfile/live/1005_1.m3u8
 http://116.131.173.194:809/hls/63/index.m3u8
 #EXTINF:-1 tvg-name="河北少儿科教" group-title="河北",河北少儿科教
-http://121.24.99.64:8090/hls/30/index.m3u8
-http://121.19.134.48:808/tsfile/live/1003_1.m3u8
 http://116.131.173.194:809/hls/61/index.m3u8
 
 #EXTINF:-1 tvg-name="秦皇岛综合" group-title="秦皇岛",秦皇岛综合

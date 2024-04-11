@@ -36,7 +36,7 @@ http://42.49.189.17:9008/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视ʰ",CCTV-10 科教
-CCTV10,http://42.49.189.17:9008/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://42.49.189.17:9008/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视ʰ",CCTV-11 戏曲

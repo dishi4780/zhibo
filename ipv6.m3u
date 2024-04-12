@@ -296,7 +296,7 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 https://pi.0472.org/live/cctv8k.m3u8?token=240411
 http://mtw.so/62HqYI
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K频道",CCTV-16 奥林匹克4K
-https://pi.0472.org/live/cctv16-4k.m3u8?token=240411
+#https://pi.0472.org/live/cctv16-4k.m3u8?token=240411
 #EXTINF:-1 group-title="4K频道",,苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K频道",,河南试验

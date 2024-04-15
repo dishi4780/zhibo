@@ -286,20 +286,32 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
 
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="4K频道",CCTV-4K
 http://mtw.so/5VbDUV
+http://159.75.85.63:5679/cctv4k.php
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
+http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-name="CCTV-8K" group-title="4K频道",CCTV-8K
 https://tv.cry33.com/ys4k.php?id=8k
 http://mtw.so/62HqYI
+#EXTINF:-1 tvg-name="CCTV16-4K" group-title="4K频道",CCTV16-4K
+http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 group-title="4K频道",,苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+#EXTINF:-1 tvg-name="爱上4K" group-title="4K频道",爱上4K 
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-name="纯享4K" group-title="4K频道",纯享4K
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+#EXTINF:-1 tvg-name="北京纪实8K" group-title="4K频道",北京纪实8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
 #EXTINF:-1 tvg-name="Loupe" group-title="4K频道",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K频道",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="爱上4K" group-title="4K频道",爱上4K 
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
 

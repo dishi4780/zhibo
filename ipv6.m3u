@@ -207,12 +207,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 
-
-
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="4K频道",CCTV-4K
-http://mtw.so/5VbDUV
 http://159.75.85.63:5679/cctv4k.php
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://mtw.so/5VbDUV
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
 http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-name="CCTV-8K" group-title="4K频道",CCTV-8K

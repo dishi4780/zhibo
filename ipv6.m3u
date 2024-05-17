@@ -201,6 +201,7 @@ https://tv.iill.top/4k/cctv8k
 http://mtw.so/62HqYI
 https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K 频道",CCTV16-4K
+http://58.46.248.145:4022/udp/239.76.246.214:1234
 https://tv.iill.top/4k/cctv16
 http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="4K 频道",苏州4K

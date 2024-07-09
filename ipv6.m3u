@@ -278,12 +278,15 @@ https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21
 
 
 #EXTINF:-1 tvg-id="秦皇岛综合" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合
+http://pwd.unnas.top:4000/rtp/239.253.92.52:6021
 http://myxq.leeleelee.press:4022/udp/239.254.200.39:6000
 http://60.2.190.206:4000/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-id="秦皇岛公共" tvg-name="秦皇岛公共" group-title="秦皇岛频道",秦皇岛公共
+http://pwd.unnas.top:4000/rtp/239.253.92.53:6022
 http://myxq.leeleelee.press:4022/udp/239.254.200.40:6000
 http://60.2.190.206:4000/rtp/239.253.92.53:6022
 #EXTINF:-1 tvg-id="秦皇岛影视" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
+http://pwd.unnas.top:4000/rtp/239.253.92.54:6023
 http://myxq.leeleelee.press:4022/udp/239.254.200.41:6000
 http://60.2.190.206:4000/rtp/239.253.92.54:6023
 

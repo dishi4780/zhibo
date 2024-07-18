@@ -239,6 +239,7 @@ https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/radio/河北卫视.png" group-title="河北频道",河北经济
 https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1963555098&k=188078e4cff948b7252bb3e5f88306b2
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://live.fanmingming.com/radio/河北卫视.png" group-title="河北频道",河北都市
+http://60.7.56.33:4000/rtp/239.253.92.172:6002
 http://pwd.unnas.top:4000/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/radio/河北卫视.png" group-title="河北频道",河北影视
 https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
@@ -250,16 +251,16 @@ https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3
 https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
 
 #EXTINF:-1 tvg-id="秦皇岛综合" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合
+http://60.7.56.33:4000/rtp/239.253.92.52:6021
 http://pwd.unnas.top:4000/rtp/239.253.92.52:6021
-http://myxq.leeleelee.press:4022/udp/239.254.200.39:6000
-http://60.2.190.206:4000/rtp/239.253.92.52:6021
+
 #EXTINF:-1 tvg-id="秦皇岛公共" tvg-name="秦皇岛公共" group-title="秦皇岛频道",秦皇岛公共
+http://60.7.56.33:4000/rtp/239.253.92.53:6022
 http://pwd.unnas.top:4000/rtp/239.253.92.53:6022
-http://myxq.leeleelee.press:4022/udp/239.254.200.40:6000
-http://60.2.190.206:4000/rtp/239.253.92.53:6022
+
 #EXTINF:-1 tvg-id="秦皇岛影视" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
+http://60.7.56.33:4000/rtp/239.253.92.54:6023
 http://pwd.unnas.top:4000/rtp/239.253.92.54:6023
-http://myxq.leeleelee.press:4022/udp/239.254.200.41:6000
-http://60.2.190.206:4000/rtp/239.253.92.54:6023
+
 
 

@@ -76,11 +76,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://115.215.165.171:8899/udp/233.50.200.191:5140
+http://115.221.83.34:8888/udp/233.50.200.191:5140
 
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://115.215.165.171:8899/udp/233.50.200.192:5140
-
+http://115.221.83.34:8888/udp/233.50.200.192:5140
 
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视

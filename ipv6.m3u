@@ -75,9 +75,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://58.250.155.2:8180/TV00000000000000000031@HHZT
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视

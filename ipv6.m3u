@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501/1.m3u8$备注源1
-https://tv.iill.top/migu/cctv1/2.m3u8$备注源2
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8/3.m3u8$备注源3
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
+http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
+https://tv.iill.top/migu/cctv1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2

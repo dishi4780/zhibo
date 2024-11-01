@@ -185,10 +185,6 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="龍華電影台" tvg-logo="" group-title="港·澳·台",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Now星影台	" tvg-logo="" group-title="港·澳·台",Now星影台	
-http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVB 星河台	" tvg-logo="" group-title="港·澳·台",TVB 星河台	
-http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="无线新闻台(北美)	" tvg-logo="" group-title="港·澳·台",无线新闻台(北美)	
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 

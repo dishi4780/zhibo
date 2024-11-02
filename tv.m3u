@@ -276,8 +276,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="智慧賽馬" tvg-logo="" group-title="港·澳·台",智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo="" group-title="港·澳·台",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 8 HD" tvg-logo="" group-title="港·澳·台",Channel 8 HD

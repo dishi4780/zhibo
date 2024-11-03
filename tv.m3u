@@ -307,34 +307,29 @@ http://192.168.1.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 http://192.168.1.1:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV精品体育" tvg-logo="https://epg.v1.mk/logo/newtv精品体育.png" group-title="NEWTV",NewTV-精品体育
 http://192.168.1.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="1" tvg-name="NewTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/newtv爱情喜剧.png" group-title="NEWTV",NewTV-爱情喜剧
-http://192.168.1.1:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV超级体育" tvg-logo="https://epg.v1.mk/logo/newtv超级体育.png" group-title="NEWTV",NewTV-超级体育
 http://192.168.1.1:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV超级综艺" tvg-logo="https://epg.v1.mk/logo/newtv超级综艺.png" group-title="NEWTV",NewTV-超级综艺
 http://192.168.1.1:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/newtv潮妈辣婆.png" group-title="NEWTV",NewTV-潮妈辣婆
 http://192.168.1.1:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="1" tvg-name="NewTV动作电影" tvg-logo="https://epg.v1.mk/logo/newtv动作电影.png" group-title="NEWTV",NewTV-动作电影
-http://192.168.1.1:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV家庭剧场" tvg-logo="https://epg.v1.mk/logo/newtv家庭剧场.png" group-title="NEWTV",NewTV-家庭剧场
 http://192.168.1.1:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/newtv惊悚悬疑.png" group-title="NEWTV",NewTV-惊悚悬疑
-http://192.168.1.1:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV军旅剧场" tvg-logo="https://epg.v1.mk/logo/newtv军旅剧场.png" group-title="NEWTV",NewTV-军旅剧场
 http://192.168.1.1:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV军事评论" tvg-logo="https://epg.v1.mk/logo/newtv军事评论.png" group-title="NEWTV",NewTV-军事评论
 http://192.168.1.1:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="1" tvg-name="NewTV农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="NEWTV",NewTV-农业致富
-http://192.168.1.1:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="NEWTV",NewTV-炫舞未来
 http://192.168.1.1:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV怡伴健康" tvg-logo="https://epg.v1.mk/logo/newtv怡伴健康.png" group-title="NEWTV",NewTV-怡伴健康
 http://192.168.1.1:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV中国功夫" tvg-logo="https://epg.v1.mk/logo/newtv中国功夫.png" group-title="NEWTV",NewTV-中国功夫
 http://192.168.1.1:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="1" tvg-name="NewTV精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="NEWTV",NewTV-精品综合
-http://192.168.1.1:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV东北热剧" tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png" group-title="NEWTV",NewTV-东北热剧
 http://192.168.1.1:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV古装剧场" tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png" group-title="NEWTV",NewTV-古装剧场
@@ -355,6 +350,16 @@ http://192.168.1.1:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
 http://192.168.1.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="NEWTV",NewTV-黑莓动画
 http://192.168.1.1:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="1" tvg-name="NewTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/newtv爱情喜剧.png" group-title="NEWTV",NewTV-爱情喜剧
+http://192.168.1.1:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+#EXTINF:-1,tvg-id="1" tvg-name="NewTV动作电影" tvg-logo="https://epg.v1.mk/logo/newtv动作电影.png" group-title="NEWTV",NewTV-动作电影
+http://192.168.1.1:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/newtv惊悚悬疑.png" group-title="NEWTV",NewTV-惊悚悬疑
+http://192.168.1.1:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="1" tvg-name="NewTV农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="NEWTV",NewTV-农业致富
+http://192.168.1.1:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+#EXTINF:-1,tvg-id="1" tvg-name="NewTV精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="NEWTV",NewTV-精品综合
+http://192.168.1.1:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV哒啵电竞" tvg-logo="https://epg.v1.mk/logo/哒啵电竞.png" group-title="NEWTV",NewTV-哒啵电竞
 http://192.168.1.1:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/哒啵赛事.png" group-title="NEWTV",NewTV-哒啵赛事

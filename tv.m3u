@@ -249,7 +249,7 @@ http://192.168.1.1:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 http://192.168.1.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="1" tvg-name="LOVENATURE" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="4K频道",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="1" tvg-name="LOUPE4K" tvg-logo="https://live.fanmingming.com/tv/Loupe.png" group-title="4K频道",Loupe
+#EXTINF:-1,tvg-id="1" tvg-name="LOUPE4K" tvg-logo="https://live.fanmingming.com/tv/loupe.png" group-title="4K频道",Loupe
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,tvg-id="1E" tvg-name="FASHIONONE" tvg-logo="https://live.fanmingming.com/tv/fashionone.png" group-title="4K频道",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8

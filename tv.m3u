@@ -262,19 +262,19 @@ http://192.168.1.1:35455/ysptp/CCTV8k_36m.m3u8
 http://192.168.1.1:35455/ysptp/CCTV8k_120m.m3u8
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="" group-title="港·澳·台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="" group-title="港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="" group-title="港·澳·台",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="" group-title="港·澳·台",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="" group-title="港·澳·台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo="" group-title="港·澳·台",凤凰资讯
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="" group-title="港·澳·台",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo="" group-title="港·澳·台",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -347,19 +347,19 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="爆谷台" tvg-logo="" group-title="港·澳·台",爆谷台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="" group-title="河北频道",河北卫视
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
-#EXTINF:-1 tvg-id="1" tvg-name="河北经济" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北经济生活.png" group-title="河北频道",河北经济
+#EXTINF:-1 tvg-id="1" tvg-name="河北经济" tvg-logo="" group-title="河北频道",河北经济
 https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1963555098&k=188078e4cff948b7252bb3e5f88306b2
-#EXTINF:-1 tvg-id="1" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北都市.png" group-title="河北频道",河北都市
+#EXTINF:-1 tvg-id="1" tvg-name="河北都市" tvg-logo="" group-title="河北频道",河北都市
 http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
-#EXTINF:-1 tvg-id="1" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北影视剧.png" group-title="河北频道",河北影视
+#EXTINF:-1 tvg-id="1" tvg-name="河北影视" tvg-logo="" group-title="河北频道",河北影视
 https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
-#EXTINF:-1 tvg-id="1" tvg-name="河北公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北公共.png" group-title="河北频道",河北公共
+#EXTINF:-1 tvg-id="1" tvg-name="河北公共" tvg-logo="" group-title="河北频道",河北公共
 https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
-#EXTINF:-1 tvg-id="1" tvg-name="河北少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北少儿科教.png" group-title="河北频道",河北少儿
+#EXTINF:-1 tvg-id="1" tvg-name="河北少儿" tvg-logo="" group-title="河北频道",河北少儿
 https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
-#EXTINF:-1 tvg-id="1" tvg-name="河北农民" group-title="河北频道",河北农民
+#EXTINF:-1 tvg-id="1" tvg-name="河北农民" tvg-logo="" group-title="河北频道",河北农民
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
 
 #EXTINF:-1 tvg-id="1" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合

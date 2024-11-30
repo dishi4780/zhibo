@@ -1,129 +1,116 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://180.117.149.162:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://180.117.149.162:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/631780532?sign=gAAAAABnSYtmHxaG0l1Z_Ho7hX0LLjYtWlLYFm42gz1keAfYOCkrgDRPXEIZhfCBn1z13f9bSsOci4gQ8m1KhOxTCHhBjVllMYJNvXFY51ntpnQ5GHeePGpxiPPCpThy1nvwLEz7IGabnByezCnjfEP-Tgr2clZNhEOyRGlKu63hVeqxTdDS20_XBI3SNXuhIa_YF8nexi_n6RuB5GcE7r7yXjYIxWusxA%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://180.117.149.162:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://fangke.blueswords.com:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/624878271?sign=gAAAAABnSYtmjLR4xiFqdLWL0HdB0ul8Ot1LS9JoXSaOqDxK5SCjDKDkHZic8ThHKVMHHCb2dPbxCAdVEk6vV3ax17-18FMnzhN2CW8yohhovJBLi9X_W4rFkt4G6lMkdDbB-3yvsXznUIrezRzkg1L6ki50QP4KYF-sV6Ni61twP1lIxSL6D1kKyzmsWmZPmePhC2uAKc_Fy0jo0BO01lPchxbYO2oqIQ%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://180.117.149.162:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://fangke.blueswords.com:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://180.117.149.162:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/641886683?sign=gAAAAABnSYtm0bor-hY8fMtVH6JZzHco7HEj6ovmI4pWYjDXzOiVrs6Qgma_Rycm6YA5y2F6-fP0EZK2d7_HrxKO0VY62QEWFmcHa_AFTJgbnNyHNvKADwl_WTudPtdiqWHW6fTzXt0g8TblUVJ7xfidVektMO7xnOSI3Krqt4q9m9r6aUwanDt5zOoCfL9J982Ez4xYmKUk5tQkfufxY3P7EkOSjk7G7w%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://180.117.149.162:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://fangke.blueswords.com:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/624878396?sign=gAAAAABnSYtmxpjodFhnrHybY57pEpM3l_w3-kSjI4Zjs0HA0QMR8-T9DH-3Q3QhrYYPBd0wRxoclx3fppaqxUC_oreB4w3DMBiTUBA61_i3zy_o8ocVgUapUXxOezkr5Fi3gDLrLU5h_RGjEMK6d7FE-pC_0uhoAR0Vp68r2k68p3kQWYc8Fkc8gaSGLwUh2EDtIaZkjW7G75upNNIxpN6GJ_XyNZrPGA%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://180.117.149.162:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://fangke.blueswords.com:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/673168121?sign=gAAAAABnSYtmXEuoOtU2bYyIi__ct5J9yIHr7x5dbdv2YSgfiqGFbIru4seTeN4sQyEVaXUbgJFSeFfoTIcDP6RsBstEHO4I1F_jCPIYDLEQCJat7uylgG9pH-lgv616D7_hFzaFluL-Ahoo4AhxAsftj1FlcxwE2LB555JudtADZ-ZxXmiGlbcTMk8MFsf181VYnT3UsoftSUibwk97DeTZEoWyNm_41g%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://180.117.149.162:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://fangke.blueswords.com:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/624878356?sign=gAAAAABnSYtm5hyYNYHQHgUqzKVEig9IXJ7QOgQW5uO_ZPnYbjecPhQdbnHl1OqXjudnZeCnL967KRZa-mnw8GtWPTlLv-FkIP69-95jk9LPFT4xKxY0cBZlC9XsT1kLhdi1_u_rKMcEybtxISRS6v4qTVSzIQ03BVb-PH0aC6OXC5Bgj2h5Pl8-oZTGBVjcCq-pt2SGfA5VIQn9aV36EddyQX_RdbLRsA%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://180.117.149.162:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://fangke.blueswords.com:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/673168140?sign=gAAAAABnSYtmm-O9QWq1JsskagWS-2YAtDRlFYzT7OoGaHlBpkxjOVaXLVJqL-f6Nws_7F6aNsXK6qqpxkCW36e7joeZBDI1q81XpfyeLPPsTJbcRncyCd5WKPWrHC44R9x2X26JRiaeZoKZcHeMmGFrDmwOIdaUn00XT4c6LiYLjD_ku0VpO5doo5DJCujd12VY6kKx-K1r7RokNMGz1yZ0xp8JAaYbNg%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://180.117.149.162:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://fangke.blueswords.com:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/624878405?sign=gAAAAABnSYtmLezfy7cSZYLzJOyDiCw7DbAwqZcB8_wekWLXl-KD6sU06D9oMNQbkCIg4PIRW2VvXisQ_AF6-SWwR3xO_q3FrRT7RzfuViTycAA_pya3Ou7FJXKlrsM0O2PBCwrkEs73Req4eXdszRFiRbT4a7i73EGTBouKLactJvcqpcU2QAiD1ECr-pm-YHRi1TlrdOp5P8C90ynkrGPNjhFIqWerMg%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://180.117.149.162:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://fangke.blueswords.com:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/667987558?sign=gAAAAABnSYtmu7QZjD4FiHOogcb-N-TSMi-vWCa72sngR7rs9oO80TSm8vpHXV7YIlHSWTXzLOMeOt2niiYTlUXrWIx9Mr-sHlOP3zt66l-EfmO0jZ4c9-o7d-QYHQHpgOTI0WVsVgd5100FIA7Mn8p5Ps7nXUIStFe9jsqxXl3YBDYSmVdXPrUZAohjBrVnw-iN74yjKvJeEp5enjOWlkmaHQG_KWtu4w%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://180.117.149.162:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/673168185?sign=gAAAAABnSYtmve0WpgOLZdy4WfterJDqhKz_QPtwupyTAlU0p9h-efhmE0TXf_wZhBDa-eg3vcQbOMNjwXKlnQQ5U7xLaNbw6pR7qR4YLvsfU4pc9iejld1HGYwZTMuh50in9wqarxJapbmJH06S6Q2M47IUiuCc-GqmnxGyNSETdgUoLuUxirx3dg1PzoigjXj3CirCNDUmGkyyZ3qkwFUgquG8baof6g%3D%3D
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://180.117.149.162:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/608807423?sign=gAAAAABnSYtmtUt3zYyAyAPS36SCJa64siYzJK8rEu3DOKUGqwvSI8BKQu4mASZNwQBgI9ZkQzwie7lGRnQhZ8MB71kjsgruJXZzjoQ8xCLF617GU4Ilu6t2X3nRcqzUVbnCpllvqyBc3qINNpYjhGhOPbx3nkbLV5IQwWs5FUrKqHr9Nfv_YHbbaRT93pXFSftcbA9hjknLD6XvKRhTE-h5cIYZbAN7aQ%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://180.117.149.162:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://fangke.blueswords.com:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/624878440?sign=gAAAAABnSYtmRK93ZM-9-DHVRxvQy4YAnIBsHeikr_cFE1vV1PwKO37QOVrs2GroviCZSD8rXEPLtYtIwCA3Mn0Pk7iRpCCJ78cjfVw0rLPt4gKSQhFD5o4bOoF3BOOZ2sz0znJjvFrttX-9sij7WD4xzJe0Ci8QB49MbxHZ1l98F9Y9IdoISjTvSuZrDTM0prs2Qivq7ZsrXJ0jFJo_X-QspFwrWUQ-8w%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://180.117.149.162:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.mytvsuper.xyz/673168223?sign=gAAAAABnSYtmkLO2sXbIPjbZxFKih9tLrD1cCnd3H-KAizRyQ0iZMQRF0kUiWP8XzOlqR-tqNeFf9MylVvh1sJXCPM7tVLZ-rpqPLDx1BwzE2TkBVosPE_gp5DaY85jQQaEeQCcbrQJy5GEosO8p5QUZ-xtXuVvAFiShT4xnDdN8UlV9n0IFdytxbuIouguviPVOKwLEMsRszEDjw0FwLFzUApIlNLR6MQ%3D%3D
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://106.45.11.192:8888/rtp/239.121.4.122:8008
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道",CCTV17
-
+https://migu.mytvsuper.xyz/673168256?sign=gAAAAABnSYtmOfgTf-7XpDmfSAonZSf1yI8ZGamvz46Lg58uty_fFvzfNmDjhuIzlBc3EgI3UUe2Fes-0v9aZqr20cv1Xey6mVsuIOZJiLa__7HPfwnp9YaH4qRsljWLJ2FFTG63ViUYZM52LTD7zKGNsClNySWZysWXId2Heq72ss2pfPdBtZxGvC-uEzAdMHvlV32goDDf3NrUzmCMfL5iQ6HL-iSKRA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
-
+https://migu.mytvsuper.xyz/641886773?sign=gAAAAABnSYtmxy_dQ81v1ypV_RIuz1Y-h4j2HvznAXP8SBQGUXG9rF1vcEQK2X7G44dJvTOyC5kFgIGwcAgInxE83Eya5fvZHHso_C-jfZ6gKxjdHyoBv9VcnZcbMMkVA7m6mqUQkPTcY8MmEqVp8gNNZ2NSaBPrPHsF0eysJ6Ar5oybr_sRE2aRTNkYuaxRJDBI6gGNfMyGwpGX5tiQTzyASOwH96ruCA%3D%3D
 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://180.117.149.162:9901/tsfile/live/0128_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://180.117.149.162:9901/tsfile/live/0124_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://180.117.149.162:9901/tsfile/live/0127_1.m3u8
+https://migu.mytvsuper.xyz/623899368?sign=gAAAAABnSYtmOv7Odbo1PEVm2NygpGX1ctvIitVjIOI1YT49Vy6-h-lkgWNMRqFbUWhdgixn8YUQHz0PLvyaJxdiaw4z-YUoFUD1rOIZkqOkpZQvL2pKOcmQdzHJwmEBi-GCqimkcpPjICzjeM6Q3vq2NeHQi_UFGwMwbszkzXbBBk-4R6EdZu1jTXOFB1IHsX04ob4CDJCjqDmUFDKZz2KtcVhUr96hXQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://180.117.149.162:9901/tsfile/live/0122_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-http://180.117.149.162:9901/tsfile/live/0137_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://180.117.149.162:9901/tsfile/live/0107_1.m3u8
+https://migu.mytvsuper.xyz/651632648?sign=gAAAAABnSYtmEDfqOPEMo5tVmkug0mZ1KnQ1PPbScPvSqnMdyWzM9eZZ1Cu98o2xlcMyRsloSgsfYGqP23r3QNU_dEQraaxpBVrbhixpXhfK9RlgH8PR83dxjZ0etWxY8-sSt8bl2JYE1j5b_PMpCSf80By7orebhRtNnSBcExal9i6lqq7corYivGOUQkFxB6kxPyIsRpPJqflvfknL8mr4ZZagpgCdVA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://180.117.149.162:9901/tsfile/live/0135_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="卫视频道",深圳卫视
 
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-http://180.117.149.162:9901/tsfile/live/0131_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
-http://180.117.149.162:9901/tsfile/live/0125_1.m3u8
+https://migu.mytvsuper.xyz/608831231?sign=gAAAAABnSYtmi84PcEC7k2GRulPA1XzbFVm9y9bweerox5aaFHF5g_4cdoFif7WjzK1mIH9BLsxpDYXqYhXT6g1sT8yKUa8lRSFMLW3Umb7Wy05q6cGQMB0IupjKReiKhrx37TCboHqEV2e6cFh7tl4r_ouzmmD_tJ-EnoU6fmptzT0vcsPTOs16IsqVflKTRETMiE5vATpGYh3wiGpWdk5eRaLT9smAvw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://180.117.149.162:9901/tsfile/live/0143_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://180.117.149.162:9901/tsfile/live/0121_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://180.117.149.162:9901/tsfile/live/0130_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://180.117.149.162:9901/tsfile/live/0132_1.m3u8
+https://migu.mytvsuper.xyz/738906825?sign=gAAAAABnSYtms8UgiKaN8vK4m4IHPdjQyUQKIBdrDde-pN2ghFg4un8LlrQanWRqawyqts8Bt5Hi-XKDzH1W_69Ezp6Ll7c9JmWtm2q4xrSoojcMtuAA9ZmznGVKxD5NQess2RecAm7oXeEXV7ENRZHkXJhPneydoP3kqTumbE1sx4hVEhUZFqsimFhqZa5u21tBEPNTwxmwKHcO3o4Hmm6rLe7CnS7tJQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/四川卫视.png" group-title="卫视频道",四川卫视
 
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://180.117.149.162:9901/tsfile/live/0142_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
-http://180.117.149.162:9901/tsfile/live/0117_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-http://180.117.149.162:9901/tsfile/live/0139_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-http://180.117.149.162:9901/tsfile/live/0113_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
 
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://180.117.149.162:9901/tsfile/live/0138_1.m3u8
+https://migu.mytvsuper.xyz/783847495?sign=gAAAAABnSYtmsHWhNuIDSDwuz_CY23o8UXsIfJy_p-CblXc-pwHX9bO2GF0BvuCoeUsJwwRDuvgi7YtuAifK2mg-AsFxI_T6iEFdfVvn5TegNolTNv3IVXXZ5Ukhg2gGkzmtfVIahVwmNlb8amv1XBGsvB_ESoJ0sGppOIsPTyTd-wCUvAUzULCivuRQFb3PY8o33HXAKiudEmqnE5Mvh6YvhnP3mJYfvA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://180.117.149.162:9901/tsfile/live/0116_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/海南卫视.png" group-title="卫视频道",海南卫视
 
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山西卫视.png" group-title="卫视频道",山西卫视
-http://180.117.149.162:9901/tsfile/live/0118_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://180.117.149.162:9901/tsfile/live/0118_2.m3u8
+https://migu.mytvsuper.xyz/738910838?sign=gAAAAABnSYtm62KOm2lwNrG_hzmrSq44k3hJ2trtFmVTW0fMsaeyhmfXnOhtkntFgK7V3g9200DwqsE2J9myclEMAnnvxrGtuMB47v9b7q3dotzGUddS-iJ72dz7U43BOR5T8bptXz9_pyteINdDUDpePSL-8a3KbLBhHmx27LZiYwvMst-aK3IAf3EC8pXWaj1yY-7DxQrctsWTmJNNwJAHbvZ5-40eSQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/内蒙古卫视.png" group-title="卫视频道",内蒙卫视
-http://180.117.149.162:9901/tsfile/live/0109_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://180.117.149.162:9901/tsfile/live/0110_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://180.117.149.162:9901/tsfile/live/0111_1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="卫视频道",云南卫视
-http://180.117.149.162:9901/tsfile/live/0119_1.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
 http://60.7.56.33:4000/rtp/239.253.92.154:6011

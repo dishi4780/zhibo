@@ -35,7 +35,6 @@ https://migu.mytvsuper.xyz/667987558?sign=gAAAAABnSYtmu7QZjD4FiHOogcb-N-TSMi-vWC
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
 https://migu.mytvsuper.xyz/673168185?sign=gAAAAABnSYtmve0WpgOLZdy4WfterJDqhKz_QPtwupyTAlU0p9h-efhmE0TXf_wZhBDa-eg3vcQbOMNjwXKlnQQ5U7xLaNbw6pR7qR4YLvsfU4pc9iejld1HGYwZTMuh50in9wqarxJapbmJH06S6Q2M47IUiuCc-GqmnxGyNSETdgUoLuUxirx3dg1PzoigjXj3CirCNDUmGkyyZ3qkwFUgquG8baof6g%3D%3D
 
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
 https://migu.mytvsuper.xyz/608807423?sign=gAAAAABnSYtmtUt3zYyAyAPS36SCJa64siYzJK8rEu3DOKUGqwvSI8BKQu4mASZNwQBgI9ZkQzwie7lGRnQhZ8MB71kjsgruJXZzjoQ8xCLF617GU4Ilu6t2X3nRcqzUVbnCpllvqyBc3qINNpYjhGhOPbx3nkbLV5IQwWs5FUrKqHr9Nfv_YHbbaRT93pXFSftcbA9hjknLD6XvKRhTE-h5cIYZbAN7aQ%3D%3D
 
@@ -45,60 +44,60 @@ https://migu.mytvsuper.xyz/624878440?sign=gAAAAABnSYtmRK93ZM-9-DHVRxvQy4YAnIBsHe
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
 https://migu.mytvsuper.xyz/673168223?sign=gAAAAABnSYtmkLO2sXbIPjbZxFKih9tLrD1cCnd3H-KAizRyQ0iZMQRF0kUiWP8XzOlqR-tqNeFf9MylVvh1sJXCPM7tVLZ-rpqPLDx1BwzE2TkBVosPE_gp5DaY85jQQaEeQCcbrQJy5GEosO8p5QUZ-xtXuVvAFiShT4xnDdN8UlV9n0IFdytxbuIouguviPVOKwLEMsRszEDjw0FwLFzUApIlNLR6MQ%3D%3D
 
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道",CCTV17
 https://migu.mytvsuper.xyz/673168256?sign=gAAAAABnSYtmOfgTf-7XpDmfSAonZSf1yI8ZGamvz46Lg58uty_fFvzfNmDjhuIzlBc3EgI3UUe2Fes-0v9aZqr20cv1Xey6mVsuIOZJiLa__7HPfwnp9YaH4qRsljWLJ2FFTG63ViUYZM52LTD7zKGNsClNySWZysWXId2Heq72ss2pfPdBtZxGvC-uEzAdMHvlV32goDDf3NrUzmCMfL5iQ6HL-iSKRA%3D%3D
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
 https://migu.mytvsuper.xyz/641886773?sign=gAAAAABnSYtmxy_dQ81v1ypV_RIuz1Y-h4j2HvznAXP8SBQGUXG9rF1vcEQK2X7G44dJvTOyC5kFgIGwcAgInxE83Eya5fvZHHso_C-jfZ6gKxjdHyoBv9VcnZcbMMkVA7m6mqUQkPTcY8MmEqVp8gNNZ2NSaBPrPHsF0eysJ6Ar5oybr_sRE2aRTNkYuaxRJDBI6gGNfMyGwpGX5tiQTzyASOwH96ruCA%3D%3D
 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.84:8015
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://migu.mytvsuper.xyz/623899368?sign=gAAAAABnSYtmOv7Odbo1PEVm2NygpGX1ctvIitVjIOI1YT49Vy6-h-lkgWNMRqFbUWhdgixn8YUQHz0PLvyaJxdiaw4z-YUoFUD1rOIZkqOkpZQvL2pKOcmQdzHJwmEBi-GCqimkcpPjICzjeM6Q3vq2NeHQi_UFGwMwbszkzXbBBk-4R6EdZu1jTXOFB1IHsX04ob4CDJCjqDmUFDKZz2KtcVhUr96hXQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
 https://migu.mytvsuper.xyz/651632648?sign=gAAAAABnSYtmEDfqOPEMo5tVmkug0mZ1KnQ1PPbScPvSqnMdyWzM9eZZ1Cu98o2xlcMyRsloSgsfYGqP23r3QNU_dEQraaxpBVrbhixpXhfK9RlgH8PR83dxjZ0etWxY8-sSt8bl2JYE1j5b_PMpCSf80By7orebhRtNnSBcExal9i6lqq7corYivGOUQkFxB6kxPyIsRpPJqflvfknL8mr4ZZagpgCdVA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.91:8021
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.207:8109
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
 https://migu.mytvsuper.xyz/608831231?sign=gAAAAABnSYtmi84PcEC7k2GRulPA1XzbFVm9y9bweerox5aaFHF5g_4cdoFif7WjzK1mIH9BLsxpDYXqYhXT6g1sT8yKUa8lRSFMLW3Umb7Wy05q6cGQMB0IupjKReiKhrx37TCboHqEV2e6cFh7tl4r_ouzmmD_tJ-EnoU6fmptzT0vcsPTOs16IsqVflKTRETMiE5vATpGYh3wiGpWdk5eRaLT9smAvw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.85:8016
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.115:6056
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.209:6566
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://migu.mytvsuper.xyz/738906825?sign=gAAAAABnSYtms8UgiKaN8vK4m4IHPdjQyUQKIBdrDde-pN2ghFg4un8LlrQanWRqawyqts8Bt5Hi-XKDzH1W_69Ezp6Ll7c9JmWtm2q4xrSoojcMtuAA9ZmznGVKxD5NQess2RecAm7oXeEXV7ENRZHkXJhPneydoP3kqTumbE1sx4hVEhUZFqsimFhqZa5u21tBEPNTwxmwKHcO3o4Hmm6rLe7CnS7tJQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/四川卫视.png" group-title="卫视频道",四川卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="卫视频道",重庆卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.10:6053
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.137:6144
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.76:8043
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.105:6055
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
 https://migu.mytvsuper.xyz/783847495?sign=gAAAAABnSYtmsHWhNuIDSDwuz_CY23o8UXsIfJy_p-CblXc-pwHX9bO2GF0BvuCoeUsJwwRDuvgi7YtuAifK2mg-AsFxI_T6iEFdfVvn5TegNolTNv3IVXXZ5Ukhg2gGkzmtfVIahVwmNlb8amv1XBGsvB_ESoJ0sGppOIsPTyTd-wCUvAUzULCivuRQFb3PY8o33HXAKiudEmqnE5Mvh6YvhnP3mJYfvA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-
+http://60.7.56.33:4000/rtp/239.253.92.202:6147
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/海南卫视.png" group-title="卫视频道",海南卫视
-
+http://60.7.56.33:4000/rtp/239.253.93.155:6323
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山西卫视.png" group-title="卫视频道",山西卫视
 
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/陕西卫视.png" group-title="卫视频道",陕西卫视

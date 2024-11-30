@@ -919,115 +919,113 @@ http://60.7.56.22:4000/rtp/239.253.92.54:6023
 #EXTINF:-1 tvg-id="3" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
 http://101.31.56.138:4022/rtp/239.253.92.54:6023
 
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo?"" group-title="AKTV频道",凤凰中文
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://192.168.1.1:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo?"" group-title="AKTV频道",凤凰中文
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo?"" group-title="AKTV频道",凤凰中文
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo?"" group-title="AKTV频道",凤凰中文
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo?"" group-title="AKTV频道",凤凰资讯
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://192.168.1.1:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo?"" group-title="AKTV频道",凤凰资讯
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo?"" group-title="AKTV频道",凤凰资讯
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo?"" group-title="AKTV频道",凤凰资讯
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo?"" group-title="AKTV频道",凤凰香港
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo?"" group-title="港·澳·台·外",凤凰香港
 http://192.168.1.1:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo?"" group-title="AKTV频道",凤凰香港
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo?"" group-title="港·澳·台·外",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo?"" group-title="AKTV频道",Channel 5 HD
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo?"" group-title="港·澳·台·外",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 HD" tvg-logo?"" group-title="AKTV频道",Channel 8 HD
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 HD" tvg-logo?"" group-title="港·澳·台·外",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Channel U HD" tvg-logo?"" group-title="AKTV频道",Channel U HD
+#EXTINF:-1 tvg-id="1" tvg-name="Channel U HD" tvg-logo?"" group-title="港·澳·台·外",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER 18台" tvg-logo?"" group-title="AKTV频道",myTV SUPER 18台
+#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER 18台" tvg-logo?"" group-title="港·澳·台·外",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo?"" group-title="AKTV频道",PopC
+#EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo?"" group-title="港·澳·台·外",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo?"" group-title="AKTV频道",ROCK Action
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo?"" group-title="港·澳·台·外",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo?"" group-title="AKTV频道",TVB Plus
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo?"" group-title="港·澳·台·外",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo?"" group-title="AKTV频道",TVBS
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo?"" group-title="港·澳·台·外",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS-新闻台" tvg-logo?"" group-title="AKTV频道",TVBS-新闻台
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS-新闻台" tvg-logo?"" group-title="港·澳·台·外",TVBS-新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo?"" group-title="AKTV频道",tvN
+#EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo?"" group-title="港·澳·台·外",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲台" tvg-logo?"" group-title="AKTV频道",中天亚洲台
+#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲台" tvg-logo?"" group-title="港·澳·台·外",中天亚洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="中天新闻台" tvg-logo?"" group-title="AKTV频道",中天新闻台
+#EXTINF:-1 tvg-id="1" tvg-name="中天新闻台" tvg-logo?"" group-title="港·澳·台·外",中天新闻台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="中视" tvg-logo?"" group-title="AKTV频道",中视
+#EXTINF:-1 tvg-id="1" tvg-name="中视" tvg-logo?"" group-title="港·澳·台·外",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="千禧经典台" tvg-logo?"" group-title="AKTV频道",千禧经典台
+#EXTINF:-1 tvg-id="1" tvg-name="千禧经典台" tvg-logo?"" group-title="港·澳·台·外",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="娱乐新闻台(HK)" tvg-logo?"" group-title="AKTV频道",娱乐新闻台(HK)
+#EXTINF:-1 tvg-id="1" tvg-name="娱乐新闻台(HK)" tvg-logo?"" group-title="港·澳·台·外",娱乐新闻台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo?"" group-title="AKTV频道",寰宇新闻台
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo?"" group-title="港·澳·台·外",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="日本全天新闻" tvg-logo?"" group-title="AKTV频道",日本全天新闻
+#EXTINF:-1 tvg-id="1" tvg-name="日本全天新闻" tvg-logo?"" group-title="港·澳·台·外",日本全天新闻
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="明珠剧集台(北美)" tvg-logo?"" group-title="AKTV频道",明珠剧集台(北美)
+#EXTINF:-1 tvg-id="1" tvg-name="明珠剧集台(北美)" tvg-logo?"" group-title="港·澳·台·外",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo?"" group-title="AKTV频道",明珠台
+#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo?"" group-title="港·澳·台·外",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="无线新闻台" tvg-logo?"" group-title="AKTV频道",无线新闻台
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻台" tvg-logo?"" group-title="港·澳·台·外",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="美亚电影台(HK)" tvg-logo?"" group-title="AKTV频道",美亚电影台(HK)
+#EXTINF:-1 tvg-id="1" tvg-name="美亚电影台(HK)" tvg-logo?"" group-title="港·澳·台·外",美亚电影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠剧集台(北美)" tvg-logo?"" group-title="AKTV频道",翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠剧集台(北美)" tvg-logo?"" group-title="港·澳·台·外",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo?"" group-title="AKTV频道",翡翠台
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo?"" group-title="港·澳·台·外",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠综合台(北美)" tvg-logo?"" group-title="AKTV频道",翡翠综合台(北美)
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠综合台(北美)" tvg-logo?"" group-title="港·澳·台·外",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo?"" group-title="AKTV频道",华视
+#EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo?"" group-title="港·澳·台·外",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="靖天電影台" tvg-logo?"" group-title="AKTV频道",靖天電影台
+#EXTINF:-1 tvg-id="1" tvg-name="靖天電影台" tvg-logo?"" group-title="港·澳·台·外",靖天電影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="黃金翡翠台" tvg-logo?"" group-title="AKTV频道",黃金翡翠台
+#EXTINF:-1 tvg-id="1" tvg-name="黃金翡翠台" tvg-logo?"" group-title="港·澳·台·外",黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="龙华日韩台" tvg-logo?"" group-title="AKTV频道",龙华日韩台
+#EXTINF:-1 tvg-id="1" tvg-name="龙华日韩台" tvg-logo?"" group-title="港·澳·台·外",龙华日韩台
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="龙华经典台" tvg-logo?"" group-title="AKTV频道",龙华经典台
+#EXTINF:-1 tvg-id="1" tvg-name="龙华经典台" tvg-logo?"" group-title="港·澳·台·外",龙华经典台
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="龙华电影台" tvg-logo?"" group-title="AKTV频道",龙华电影台
+#EXTINF:-1 tvg-id="1" tvg-name="龙华电影台" tvg-logo?"" group-title="港·澳·台·外",龙华电影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="viutv 99" tvg-logo?"" group-title="AKTV频道",viutv 99
+#EXTINF:-1 tvg-id="1" tvg-name="viutv 99" tvg-logo?"" group-title="港·澳·台·外",viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="viutv6 96" tvg-logo?"" group-title="AKTV频道",viutv6 96
+#EXTINF:-1 tvg-id="1" tvg-name="viutv6 96" tvg-logo?"" group-title="港·澳·台·外",viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="无线新闻台(北美)" tvg-logo?"" group-title="AKTV频道",无线新闻台(北美)	
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻台(北美)" tvg-logo?"" group-title="港·澳·台·外",无线新闻台(北美)	
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Animax-HK" tvg-logo?"" group-title="AKTV频道",Animax-HK
+#EXTINF:-1 tvg-id="1" tvg-name="Animax-HK" tvg-logo?"" group-title="港·澳·台·外",Animax-HK
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="C+台" tvg-logo?"" group-title="AKTV频道",C+台
+#EXTINF:-1 tvg-id="1" tvg-name="C+台" tvg-logo?"" group-title="港·澳·台·外",C+台
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="France 24" tvg-logo?"" group-title="AKTV频道",France 24
+#EXTINF:-1 tvg-id="1" tvg-name="France 24" tvg-logo?"" group-title="港·澳·台·外",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="KIX" tvg-logo?"" group-title="AKTV频道",KIX
+#EXTINF:-1 tvg-id="1" tvg-name="KIX" tvg-logo?"" group-title="港·澳·台·外",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Love Nature HD" tvg-logo?"" group-title="AKTV频道",Love Nature HD
+#EXTINF:-1 tvg-id="1" tvg-name="Love Nature HD" tvg-logo?"" group-title="港·澳·台·外",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="NHK World-Japan" tvg-logo?"" group-title="AKTV频道",NHK World-Japan
+#EXTINF:-1 tvg-id="1" tvg-name="NHK World-Japan" tvg-logo?"" group-title="港·澳·台·外",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo?"" group-title="AKTV频道",Nick Jr
+#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo?"" group-title="港·澳·台·外",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo?"" group-title="AKTV频道",Nickelodeon
+#EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo?"" group-title="港·澳·台·外",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo?"" group-title="AKTV频道",ROCK Action
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo?"" group-title="港·澳·台·外",ROCK Action
 http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo?"" group-title="AKTV频道",Thrill
+#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo?"" group-title="港·澳·台·外",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="ZooMoo" tvg-logo?"" group-title="AKTV频道",ZooMoo
+#EXTINF:-1 tvg-id="1" tvg-name="ZooMoo" tvg-logo?"" group-title="港·澳·台·外",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="亚洲新闻台" tvg-logo?"" group-title="AKTV频道",亚洲新闻台
+#EXTINF:-1 tvg-id="1" tvg-name="亚洲新闻台" tvg-logo?"" group-title="港·澳·台·外",亚洲新闻台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-
-

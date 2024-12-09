@@ -298,69 +298,68 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/000000001000/100000000200002944
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000043
 
-
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
-http://60.7.56.33:4000/rtp/239.253.92.154:6011
+http://120.0.52.162:8086/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
-http://101.22.74.98:8888/rtp/239.253.92.154:6011
+http://120.0.8.181:8086/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="河北频道",河北卫视
-http://121.29.169.100:2083/rtp/239.253.92.154:6011
+http://60.7.56.33:4000/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="1" tvg-name="河北经济" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北经济生活.png" group-title="河北频道",河北经济
-http://60.7.56.33:4000/rtp/239.253.92.171:6001
+http://120.0.52.162:8086/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北经济" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北经济生活.png" group-title="河北频道",河北经济
-http://101.22.74.98:8888/rtp/239.253.92.171:6001
+http://120.0.8.181:8086/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北经济" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北经济生活.png" group-title="河北频道",河北经济
-http://121.29.169.100:2083/rtp/239.253.92.171:6001
+http://60.7.56.33:4000/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-id="1" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北都市.png" group-title="河北频道",河北都市
-http://60.7.56.33:4000/rtp/239.253.92.172:6002
+http://120.0.52.162:8086/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北都市.png" group-title="河北频道",河北都市
-http://101.22.74.98:8888/rtp/239.253.92.172:6002
+http://120.0.8.181:8086/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北都市.png" group-title="河北频道",河北都市
-http://121.29.169.100:2083/rtp/239.253.92.172:6002
+http://60.7.56.33:4000/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-id="1" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北影视剧.png" group-title="河北频道",河北影视
-http://60.7.56.33:4000/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-id="2" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北影视剧.png" group-title="河北频道",河北影视
-http://101.22.74.98:8888/rtp/239.253.92.173:6003
+http://120.0.52.162:8086/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北影视剧.png" group-title="河北频道",河北影视
-http://121.29.169.100:2083/rtp/239.253.92.173:6003
+http://120.0.8.181:8086/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北影视剧.png" group-title="河北频道",河北影视
+http://60.7.56.33:4000/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="1" tvg-name="河北公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北公共.png" group-title="河北频道",河北公共
-http://60.7.56.33:4000/rtp/239.253.92.175:6005
+http://120.0.52.162:8086/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北公共.png" group-title="河北频道",河北公共
-http://101.22.74.98:8888/rtp/239.253.92.175:6005
+http://120.0.8.181:8086/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北公共.png" group-title="河北频道",河北公共
-http://121.29.169.100:2083/rtp/239.253.92.175:6005
+http://60.7.56.33:4000/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-id="1" tvg-name="河北少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北少儿科教.png" group-title="河北频道",河北少儿
-http://60.7.56.33:4000/rtp/239.253.92.174:6004
+http://120.0.52.162:8086/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北少儿科教.png" group-title="河北频道",河北少儿
-http://101.22.74.98:8888/rtp/239.253.92.174:6004
+http://120.0.8.181:8086/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北少儿科教.png" group-title="河北频道",河北少儿
-http://121.29.169.100:2083/rtp/239.253.92.174:6004
+http://60.7.56.33:4000/rtp/239.253.92.174:6004
 #EXTINF:-1 tvg-id="1" tvg-name="河北农民" group-title="河北频道",河北农民
-http://60.7.56.33:4000/rtp/239.253.92.176:6006
+http://120.0.52.162:8086/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="河北农民" group-title="河北频道",河北农民
-http://101.22.74.98:8888/rtp/239.253.92.176:6006
+http://120.0.8.181:8086/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北农民" group-title="河北频道",河北农民
-http://121.29.169.100:2083/rtp/239.253.92.176:6006
+http://60.7.56.33:4000/rtp/239.253.92.176:6006
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合
-http://60.7.56.33:4000/rtp/239.253.92.52:6021
+http://106.118.70.191:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合
-http://60.7.56.22:4000/rtp/239.253.92.52:6021
+http://60.7.56.33:4000/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-id="3" tvg-name="秦皇岛综合" group-title="秦皇岛频道",秦皇岛综合
-http://121.29.169.100:2083/rtp/239.253.92.52:6021
+http://60.7.56.22:4000/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-id="1" tvg-name="秦皇岛公共" group-title="秦皇岛频道",秦皇岛公共
-http://60.7.56.33:4000/rtp/239.253.92.53:6022
+http://106.118.70.191:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="秦皇岛公共" group-title="秦皇岛频道",秦皇岛公共
-http://60.7.56.22:4000/rtp/239.253.92.53:6022
+http://60.7.56.33:4000/rtp/239.253.92.53:6022
 #EXTINF:-1 tvg-id="3" tvg-name="秦皇岛公共" group-title="秦皇岛频道",秦皇岛公共
-http://121.29.169.100:2083/rtp/239.253.92.53:6022
+http://60.7.56.22:4000/rtp/239.253.92.53:6022
 #EXTINF:-1 tvg-id="1" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
-http://60.7.56.33:4000/rtp/239.253.92.54:6023
+http://106.118.70.191:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
-http://60.7.56.22:4000/rtp/239.253.92.54:6023
+http://60.7.56.33:4000/rtp/239.253.92.54:6023
 #EXTINF:-1 tvg-id="3" tvg-name="秦皇岛影视" group-title="秦皇岛频道",秦皇岛影视
-http://121.29.169.100:2083/rtp/239.253.92.54:6023
-
+http://60.7.56.22:4000/rtp/239.253.92.54:6023
 
 
 

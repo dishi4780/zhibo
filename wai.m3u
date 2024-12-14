@@ -208,31 +208,6 @@ http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000507
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo?"https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 赛事
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
 
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo?"https://epg.v1.mk/logo/世界地理.png" group-title="央视频道",世界地理
-http://192.168.1.254:35455/tptv/G_SHIJIEDL-CQ.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo?"https://epg.v1.mk/logo/风云剧场.png" group-title="央视频道",风云剧场
-http://192.168.1.254:35455/tptv/G_FENGYUNJC-CQ.m3u8
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo?"https://epg.v1.mk/logo/风云足球.png" group-title="央视频道",风云足球
-http://192.168.1.254:35455/tptv/G_FENGSHANGZQ-CQ.m3u8
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo?"https://epg.v1.mk/logo/风云音乐.png" group-title="央视频道",风云音乐
-http://192.168.1.254:35455/tptv/G_FENGYUNYY-CQ.m3u8
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo?"https://epg.v1.mk/logo/兵器科技.png" group-title="央视频道",兵器科技
-http://192.168.1.254:35455/tptv/G_BINGQIKJ-CQ.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo?"https://epg.v1.mk/logo/央视台球.png" group-title="央视频道",央视台球
-http://192.168.1.254:35455/tptv/G_TAIQIU-CQ.m3u8
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo?"https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视频道",高尔夫网球
-http://192.168.1.254:35455/tptv/G_CCTV-GOLF-CQ.m3u8
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo?"https://epg.v1.mk/logo/女性时尚.png" group-title="央视频道",女性时尚
-http://192.168.1.254:35455/tptv/G_NVXINGSS-CQ.m3u8
-#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo?"https://epg.v1.mk/logo/电视指南.png" group-title="央视频道",电视指南
-http://192.168.1.254:35455/tptv/G_DIANSHIZN-CQ.m3u8
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo?"https://epg.v1.mk/logo/第一剧场.png" group-title="央视频道",第一剧场
-http://192.168.1.254:35455/tptv/G_DIYIJC-CQ.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo?"https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
-http://192.168.1.254:35455/tptv/G_HUAIJIUJC-CQ.m3u8
-#EXTINF:-1,tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo?"https://epg.v1.mk/logo/央视文化精品.png" group-title="央视频道",央视文化精品
-http://192.168.1.254:35455/tptv/G_CCTV-WENHUA-CQ.m3u8
-
 
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo?"https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://192.168.1.254:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
@@ -556,30 +531,18 @@ http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000043
 
 
 
-#EXTINF:-1,tvg-id="1" tvg-name="cctv1-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv1-4K
-http://192.168.1.254:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
-#EXTINF:-1,tvg-id="1" tvg-name="cctv3-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv3-4K
-http://192.168.1.254:35455/tptv/G_CCTV-3-AVS-4K264.m3u8
-#EXTINF:-1,tvg-id="1" tvg-name="cctv5-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv5-4K
-http://192.168.1.254:35455/tptv/G_CCTV-5-AVS-4K264.m3u8
 #EXTINF:-1,tvg-id="1" tvg-name="cctv16-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv16-4K
 http://192.168.1.254:35455/ysptp/cctv4k16_10m.m3u8
 #EXTINF:-1,tvg-id="2" tvg-name="cctv16-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv16-4K
 http://192.168.1.254:35455/ysptp/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="3" tvg-name="cctv16-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv16-4K
 http://192.168.1.254:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="4" tvg-name="cctv16-4K" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv16-4K
-http://192.168.1.254:35455/tptv/G_CCTV-16-4K.m3u8
 #EXTINF:-1,tvg-id="1" tvg-name="cctv4k" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv4k
 http://192.168.1.254:35455/ysptp/cctv4k_10m.m3u8
 #EXTINF:-1,tvg-id="1" tvg-name="cctv4k" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv4k
 http://192.168.1.254:35455/ysptp/cctv4k.m3u8
-#EXTINF:-1,tvg-id="1" tvg-name="cctv4k" tvg-logo?"https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",cctv4k
-http://192.168.1.254:35455/tptv/G_CCTV-4K-HD.m3u8
 #EXTINF:-1,tvg-id="1" tvg-name="华数4K" tvg-logo?"https://live.fanmingming.com/tv/华数4K.png" group-title="4K频道",华数
 http://192.168.1.254:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="1" tvg-name="纯享4K" tvg-logo?"https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享
-http://192.168.1.254:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1,tvg-id="2" tvg-name="纯享4K" tvg-logo?"https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享
 http://192.168.1.254:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="1" tvg-name="咪咕4K" tvg-logo?"https://live.fanmingming.com/tv/咪咕视频.png" group-title="4K频道",咪咕
@@ -592,8 +555,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,tvg-id="1E" tvg-name="FASHIONONE" tvg-logo?"https://live.fanmingming.com/tv/fashionone.png" group-title="4K频道",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="1E" tvg-name="篮球4K" tvg-logo?"https://live.fanmingming.com/tv/fashionone.png" group-title="4K频道",篮球4K
-http://192.168.1.254:35455/tptv/miguaoyun01-AVS-4K01.m3u8
+
 
 #EXTINF:-1,tvg-id="1" tvg-name="CCTV8k" tvg-logo?"https://live.fanmingming.com/tv/CCTV8K.png" group-title="8K频道",CCTV8K
 http://192.168.1.254:35455/ysptp/cctv8k_36m.m3u8
@@ -920,24 +882,19 @@ http://60.7.56.33:4000/rtp/239.253.92.54:6023
 http://60.7.56.22:4000/rtp/239.253.92.54:6023
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
-http://192.168.1.254:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo?"" group-title="港·澳·台·外",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
-http://192.168.1.254:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo?"" group-title="港·澳·台·外",凤凰资讯
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo?"" group-title="港·澳·台·外",凤凰香港
-http://192.168.1.254:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo?"" group-title="港·澳·台·外",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo?"" group-title="港·澳·台·外",Channel 5 HD
@@ -1030,6 +987,3 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="亚洲新闻台" tvg-logo?"" group-title="港·澳·台·外",亚洲新闻台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-
-
-
